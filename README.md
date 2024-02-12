@@ -4,6 +4,9 @@ Devoleped by team Catalyst for the submission of #HackTogether The AI Chat App H
 Welcome to the Science Tutor Chat App, your ultimate companion for acing the NCERT board exams in India! 📚✨
 
 - 🔗 https://subjectmentor.azurewebsites.net/
+- 
+- ### Demo
+   https://www.youtube.com/watch?v=WSUTJ485-Pc
 
 
 
@@ -48,6 +51,8 @@ We manually created a datasource for higher secondary Maths, Physics, Chemistry,
 3. **Engage with the Chatbot:** Interact with our chatbot to ask questions, request explanations, or access study materials.
   
 3. **Track Progress:** Monitor your learning progress, review past conversations .
+
+
 
 
 
