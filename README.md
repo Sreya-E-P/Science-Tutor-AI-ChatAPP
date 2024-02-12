@@ -1,15 +1,13 @@
-# Science-Tutor-AI-Chat-App
-Devoleped by team Infinity for the submission of #HackTogether The AI Chat App Hack 
+# Science Tutor AI ChatApp
+
+Devoleped by team Catalyst for the submission of #HackTogether The AI Chat App Hack 
+Welcome to the Science Tutor Chat App, your ultimate companion for acing the NCERT board exams in India! 📚✨
+
 
 ## Devoleped by
 - Sreya E P
   
 - Ricky Rodrigues 
-
-# Science Tutor Chat App
-
-Welcome to the Science Tutor Chat App, your ultimate companion for acing the NCERT board exams in India! 📚✨
-
 
 ## Technology Stack
 
