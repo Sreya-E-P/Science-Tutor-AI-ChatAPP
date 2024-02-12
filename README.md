@@ -2,8 +2,7 @@
 
 Devoleped by team Catalyst for the submission of #HackTogether The AI Chat App Hack 
 Welcome to the Science Tutor Chat App, your ultimate companion for acing the NCERT board exams in India! 📚✨
-
-# 🔗 https://subjectmentor.azurewebsites.net/
+🔗 https://subjectmentor.azurewebsites.net/
 
 
 
