@@ -562,9 +562,7 @@ comparative anatomy, embryology and molecular evidence); Darwin’s contribution
 theory of Evolution; Mechanism of evolution– Variation (Mutation and Recombination) and Natural Selection
 with examples, types of natural selection; Gene flow and genetic dirft; Hardy- Weinberg’s principle; Adaptive
 Radiation; Human evolution.
-NCERT Syllabus for Class 12 Biology
-2023-24
-7
+
 III Biology and Human Welfare (Periods 35)
 Health and Disease: Pathogens; parasites causing human diseases (Malaria, Filariasis, Ascariasis,
 Typhoid, Pneumonia, common cold, amoebiasis, ring worm); Basic concepts of immunology–vaccines;
@@ -573,22 +571,87 @@ Improvement in food production: Plant breeding, tissue culture, single cell prot
 Apiculture and Animal husbandry.
 Microbes in human welfare: In household food processing, industrial production, sewage treatment,
 energy generation and as biocontrol agents and biofertilizers.
-IV Biotechnology and Its Applications (Periods 30)
+
+IV Biotechnology and Its Applications 
 Principles and process of Biotechnology: Genetic engineering (Recombinant DNA technology).
 Application of Biotechnology in health, agriculture and industry: Human insulin and vaccine
 production, gene therapy; Genetically modified organisms- Bt cotton; Transgenic Animals; Biosafety
 issues– Biopiracy and patents.
-V Ecology and environment (Periods 35)
+
+V Ecology and environment 
 Organisms and environment: Habitat and niche; Population and ecological adaptations; Population
-interactions–mutualism, competition, predation, parasitism; Population attributes–growth, birth rate and
-death rate, age distribution.
-Ecosystems: Patterns, components; productivity and decomposition; Energy flow; Pyramids of
-number, biomass, energy; Nutrient cycling (carbon and phosphorous); Ecological succession; Ecological
-Services– Carbon fixation, pollination, oxygen release.
-Biodiversity and its conservation: Concept of Biodiversity; Patterns of Biodiversity; Importance of
-Biodiversity; Loss of Biodiversity; Biodiversity conservation; Hotspots, endangered organisms, extinction,
-Red Data Book, biosphere reserves, National parks and sanctuaries.
-Environmental issues: Air pollution and its control; Water pollution and its control; Agrochemicals
-and their effects; Solid waste management; Radioactive waste management; Greenhouse effect and global
-warming; Ozone depletion; Deforestation; Any three case studies as success stories addressing environmental
-issues.
+
+*********************************************************************************************************************************************************************************************************************
+
+NCERT Syllabus for Class 12 Maths
+
+UNIT I: RELATIONS AND FUNCTIONS
+1. Relations and Functions 15 Periods
+Types of relations: reflexive, symmetric, transitive and equivalence relations. One to one and onto functions.
+2. Inverse Trigonometric Functions 15 Periods
+Definition, range, domain, principal value branch. Graphs of inverse trigonometric functions.
+
+UNIT II: ALGEBRA
+3. Matrices 
+Concept, notation, order, equality, types of matrices, zero and identity matrix, transpose of a matrix, symmetric
+and skew symmetric matrices. Operation on matrices: Addition and multiplication and multiplication with a
+scalar. Simple properties of addition, multiplication and scalar multiplication. On-commutativity of multiplication
+of matrices and existence of non-zero matrices whose product is the zero matrix (restrict to square matrices of
+order 2). Invertible matrices and proof of the uniqueness of inverse, if it exists; (Here all matrices will have real
+entries).
+
+4. Determinants 
+Determinant of a square matrix (up to 3 x 3 matrices), minors, co-factors and applications of determinants in
+finding the area of a triangle. Adjoint and inverse of a square matrix. Consistency, inconsistency and number of
+solutions of system of linear equations by examples, solving system of linear equations in two or three variables
+(having unique solution) using inverse of a matrix.
+
+UNIT III: CALCULUS
+5. Continuity and Differentiability 
+Continuity and differentiability, chain rule, derivative of inverse trigonometric functions, like sin-1 x, cos-1 x and
+tan-1 x, derivative of implicit functions. Concept of exponential and logarithmic functions.
+Derivatives of logarithmic and exponential functions. Logarithmic differentiation, derivative of functions
+expressed in parametric forms. Second order derivatives.
+
+6. Applications of Derivatives 
+Applications of derivatives: rate of change of bodies, increasing/decreasing functions, maxima and minima (first
+derivative test motivated geometrically and second derivative test given as a provable tool). Simple problems (that
+illustrate basic principles and understanding of the subject as well as real-life situations).
+
+7. Integrals 
+Integration as inverse process of differentiation. Integration of a variety of functions by substitution, by partial
+fractions and by parts, Evaluation of simple integrals of the following types and problems based on them.
+Fundamental Theorem of Calculus (without proof). Basic properties of definite integrals and evaluation of
+definite integrals.
+
+8. Applications of the Integrals 
+Applications in finding the area under simple curves, especially lines, circles/ parabolas/ellipses (in standard form
+only)
+
+9. Differential Equations 15 Periods
+Definition, order and degree, general and particular solutions of a differential equation. Solution of differential
+equations by method of separation of variables, solutions of homogeneous differential equations of first order and
+first degree. Solutions of linear differential equation of the type:
+dy/dx + py = q, where p and q are functions of x or constants.
+dx/dy + px = q, where p and q are functions of y or constants.
+
+UNIT IV: VECTORS AND THREE-DIMENSIONAL GEOMETRY
+10. Vectors 
+Vectors and scalars, magnitude and direction of a vector. Direction cosines and direction ratios of a vector. Types
+of vectors (equal, unit, zero, parallel and collinear vectors), position vector of a point, negative of a vector,
+components of a vector, addition of vectors, multiplication of a vector by a scalar, position vector of a point
+dividing a line segment in a given ratio. Definition, Geometrical Interpretation, properties and application of
+scalar (dot) product of vectors, vector (cross) product of vectors.
+
+11. Three-dimensional Geometry 
+Direction cosines and direction ratios of a line joining two points. Cartesian equation and vector equation of a
+line, skew lines, shortest distance between two lines. Angle between two lines.
+UNIT V: LINEAR PROGRAMMING
+12. Linear Programming 
+Introduction, related terminology such as constraints, objective function, optimization, graphical method of
+solution for problems in two variables, feasible and infeasible regions (bounded or unbounded), feasible and
+infeasible solutions, optimal feasible solutions (up to three non-trivial constraints).
+UNIT VI: PROBABILITY
+13. Probability 
+Conditional probability, multiplication theorem on probability, independent events, total probability, Bayes’
+theorem, Random variable and its probability distribution, mean of random variable.
