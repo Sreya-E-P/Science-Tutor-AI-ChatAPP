@@ -1,7 +1,7 @@
 # Science-Tutor-AI-Chat-App
 Devoleped by team Infinity for the submission of #HackTogether The AI Chat App Hack 
 
-# Devoleped by
+## Devoleped by
 - Sreya E P
   
 - Ricky Rodrigues 
@@ -11,7 +11,7 @@ Devoleped by team Infinity for the submission of #HackTogether The AI Chat App H
 Welcome to the Science Tutor Chat App, your ultimate companion for acing the NCERT board exams in India! 📚✨
 
 
-# Technology Stack
+## Technology Stack
 
 - Azure OpenAI (gpt-35-turbo-16k , text-embedding-ada-002)
 - Azure AI Search
@@ -19,11 +19,11 @@ Welcome to the Science Tutor Chat App, your ultimate companion for acing the NCE
 - Azure Cosmos DB
 - Azure App Service
 
-  # Overview
+  ## Overview
 
 The Science Tutor Chat App is designed to support students of classes 11 and 12 in their preparation for NCERT board exams. We've meticulously crafted a chat application that serves as a virtual tutor, providing comprehensive coverage of the syllabi for Physics, Chemistry, Maths, and Biology in Hindi, aligned with the latest NCERT guidelines.
 
-# Key Features
+## Key Features
 
 - **Interactive Chat Interface:** Engage in real-time conversations with our chatbot to access study materials, explanations, and tips.
   
@@ -35,12 +35,12 @@ The Science Tutor Chat App is designed to support students of classes 11 and 12 
 
 - **Multiple Language Support:** Responds to students in their preferred language.
 
-# Data Source
+## Data Source
 
 We manually created a datasource for higher secondary Maths, Physics, Chemistry, and Biology for classes 11 and 12, following the NCERT textbooks, and generated our datasource in Hindi.
 
 
-# How to Use
+## How to Use
 
 1. **Sign Up:** Sign Up with personal microsoft account to access personalized features and save your progress.
   
